@@ -45,4 +45,12 @@ For more details on the structure, look into models.py<br>
 * Current ExpressJS, Serves up static html page for simplicity
 * Will not be using pug or other frontend engines.
 * Database has yet to be finalised.
+Optional Install if recreating:<br>
+```npm install express-generator -g``` Express Project creation <br>
+Required Install:<br>
+```npm install nodemon -g``` Node monitor. <br>
+On pulling:<br>
+`npm install` within directory.
+
+`nodemon start` - Start server with monitoring.
 
